@@ -1,0 +1,46 @@
+Player stats:
+
+Player name:JAscenso 
+The player is human
+Wins: 4
+Ties: 0
+Losses: 7
+Money left in the bank: 27 euros
+
+Player stats:
+
+Player name:peter 
+The player is a machine
+Wins: 2
+Ties: 0
+Losses: 2
+Money left in the bank: 50 euros
+
+Player stats:
+
+Player name:CRibeiro 
+The player is human
+Wins: 1
+Ties: 1
+Losses: 9
+Money left in the bank: 0 euros
+
+Player stats:
+
+Player name:ines 
+The player is a machine
+Wins: 44630084
+Ties: 1
+Losses: 44630093
+Money left in the bank: 200 euros
+
+Player stats:
+
+Player name:BCosta 
+The player is human
+Wins: 0
+Ties: 0
+Losses: 6
+Money left in the bank: 0 euros
+
+The house has gained 572 euros
